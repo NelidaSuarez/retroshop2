@@ -1,0 +1,17 @@
+.ItemListContainer {
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+   
+}
+
+
+h4{
+    font-family: monospace;
+    color: rgb(212, 20, 20);
+    margin-top: 10px;
+}
+
